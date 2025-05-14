@@ -3,6 +3,8 @@ Main game
 '''
 from game.hand import Hand
 from game.deck import Deck
+from game.chips import Chips
+from utils.input_handle import *
 
 
 test_deck = Deck()
