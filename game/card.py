@@ -1,8 +1,6 @@
 '''
 Card class initializing cards
 '''
-from game.constants import suits, ranks
-
 class Card:
     
     def __init__(self, suit, rank):
